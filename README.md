@@ -1,11 +1,12 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice)
+### Hi there MyungSeoungJung👋
 <!--
 **MyungSeoungJung/MyungSeoungJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
