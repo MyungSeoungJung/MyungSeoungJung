@@ -49,7 +49,7 @@ HTTP 프로토콜을 기반으로 한 Restful API 제작 경험
 
 <h3 align="center">📈 My Github Stats 📈</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyungSeoungJung&show_icons=true&theme=gruvbox&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api?username=MyungSeoungJung&show_icons=true&theme=radical&hide=contribs">
 </p>
 
 <p align="center">
