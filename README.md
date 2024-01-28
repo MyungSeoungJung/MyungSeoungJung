@@ -49,9 +49,9 @@ HTTP 프로토콜을 기반으로 한 Restful API 제작 경험
 
 <h3 align="center">📈 My Github Stats 📈</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyungSeoungJung&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=MyungSeoungJung&show_icons=true&theme=buefy">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyungSeoungJung&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyungSeoungJung&layout=compact&theme=buefy">
 </p>
