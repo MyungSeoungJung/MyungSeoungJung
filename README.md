@@ -1,4 +1,4 @@
-<h3 align="center">저의 깃허브에 오신 걸 환영합니다!👋 저는 신입 개발자! 명승정입니다 :)</h3>
+<h3 align="center">저의 깃허브에 오신 걸 환영합니다!👋 저는 신입 개발자 명승정입니다 :)</h3>
 <div align="center">
   <h3><strong>🚀 Project Experience 🚀</strong></h3>
 
