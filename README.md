@@ -24,7 +24,13 @@ HTTP 프로토콜을 기반으로 한 Restful API 제작 경험
   **Git**<br>
   Github을 통한 형상관리 및 협업 경험<br>
 </div>
-
+<div align="center">
+    <h3><strong>🤝Contect🤝</strong></h3>
+  📞: 010-5478-6535
+  <br>
+  ✉: audtmdwjd@naver.com
+</div>
+<br>
   <h3 align="center">🔥Tech Stacks 🔥</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
