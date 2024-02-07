@@ -24,6 +24,10 @@ HTTP 프로토콜을 기반으로 한 Restful API 제작 경험
   **Git**<br>
   Github을 통한 형상관리 및 협업 경험<br>
 </div>
+  <br>
+<div align="center">
+현재는 기존 프로젝트 리팩토링중입니다!
+</div>
 <div align="center">
     <h3><strong>🤝Contect🤝</strong></h3>
   📞: 010-5478-6535
