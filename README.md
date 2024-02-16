@@ -1,39 +1,7 @@
 <h3 align="center">저의 깃허브에 오신 걸 환영합니다! 저는 신입 개발자 명승정입니다.👋 </h3>
 <div align="center">
-  <h3><strong>🚀 Project Experience 🚀</strong></h3>
 
-  **API**
-<br>
-Java Spring Boot & Javascript 기반 웹페이지 제작 경험
-<br>
-Kotlin & React 기반의 웹 페이지 개발 경험
-<br>
-HTTP 프로토콜을 기반으로 한 Restful API 제작 경험
 
-  **Database, MQ**<br>
-  MySQL 기반 개발 경험<br>
-  JPA 사용으로 ORM 사상의 개발 경험<br>
-  Kotlin의 DSL Type-safe SQL로 명시적인 쿼리 제어를 통한 개발 경험<br>
-  Rabbit MQ 기반의 메시징 처리 구성 경험<br>
-
-  **배포**<br>
-  AWS를 이용한 배포 구현 경험<br>
-  CI/CD Jenkins를 활용한 자동 배포 경험<br>
-  Docker와 DockerHub 활용한 배포 경험<br>
-
-  **Git**<br>
-  Github을 통한 형상관리 및 협업 경험<br>
-</div>
-  <br>
-<div align="center">
-현재는 기존 프로젝트 리팩토링중입니다!
-</div>
-<div align="center">
-    <h3><strong>🤝Contect🤝</strong></h3>
-  📞: 010-5478-6535
-  <br>
-  ✉: audtmdwjd@naver.com
-</div>
 <br>
   <h3 align="center">🔥Tech Stacks 🔥</h3>
 <p align="center">
